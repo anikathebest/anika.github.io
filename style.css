@@ -16,8 +16,20 @@ body {
   margin: -10em auto 0 auto;
 }
 
+.encsi-title {
+  transition: transform .2s ease; 
+}
+
+.encsi-title:hover {
+  color: aquamarine;
+  cursor: pointer;
+  transform: scale(1.2);
+}
+
 /* ============================================== Candle
 */
+
+
 
 .velas {
   background: #ffffff;
