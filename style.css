@@ -16,11 +16,11 @@ body {
   margin: -10em auto 0 auto;
 }
 
-.encsi-title {
+.anika-title {
   transition: transform .2s ease; 
 }
 
-.encsi-title:hover {
+.anika-title:hover {
   color: aquamarine;
   cursor: pointer;
   transform: scale(1.2);
